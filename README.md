@@ -1,7 +1,6 @@
 <div align= "center">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=97bfdd&height=240&text=THIS%20IS%20IMMMS&animation=twinkling&fontColor=fdff75&fontSize=40" />
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=39ddfe&height=240&text=THIS%20IS%20IMMMS&animation=twinkling&fontColor=ffffdb&fontSize=40" />
     </div>
-    <br> 
     <div align= "center"> 
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;">  </h2>  
     <div style="font-weight: 700; font-size: 15px; text-align: center; color: #c9d1d9;">  </div> 
@@ -22,7 +21,6 @@
           <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white">
           </div>
     </div>
-    <br> 
     <div align= "center">
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🧑‍💻 Contact me </h2> <br> 
     <div align= "center">  </div>  <br> 
