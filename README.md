@@ -21,14 +21,16 @@
           <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white">
           </div>
     </div><br/> 
+    <div align= "center"> 
+        <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> ✏️ Studying </h2> <div align= "center"> 
+        <img src="https://github-readme-stats.vercel.app/api?username=immms&bg_color=180,000000,&title_color=000000&text_color=000000"/> 
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=immms&layout=compact&bg_color=180,000000,&title_color=000000&text_color=000000"/> 
+    </div> <br/>  
     <div align= "center">
         <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 📨 Contact me </h2> <br/> 
         <div align= "center">  <a href=mailto:csi9926@gmail.com> <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:csi9926@gmail.com"> </a> </div>  <br/> 
-        <div align= "center">  </div><br/>  
+        <div align= "center">  </div>
     </div>
-    <div align= "center"> 
-        <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> ✏️ Studying </h2> <div align= "center"> <img src="https://github-readme-stats.vercel.app/api?username=immms&bg_color=180,000000,&title_color=000000&text_color=000000"
-         /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=immms&layout=compact&bg_color=180,000000,&title_color=000000&text_color=000000"
-       /> </div> 
+    
 </div>
 
