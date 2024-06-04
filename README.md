@@ -24,7 +24,7 @@
     </div><br/> 
     <div align= "center"> 
         <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> ✏️ Studying </h2> <div align= "center"> 
-            
+            <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
     </div> <br/>  
     <div align= "center">
         <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 📨 Contact me </h2> <br/> 
