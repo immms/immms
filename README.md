@@ -11,6 +11,7 @@
           <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=Javascript&logoColor=white">
           <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white">
           <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white">
+          <img src="https://img.shields.io/badge/StyledComponents-DB7093?style=for-the-badge&logo=StyledComponents&logoColor=white">
           <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white">
           <br/><img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white">
           <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white">
@@ -23,8 +24,7 @@
     </div><br/> 
     <div align= "center"> 
         <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> ✏️ Studying </h2> <div align= "center"> 
-        <img src="https://github-readme-stats.vercel.app/api?username=immms&bg_color=180,000000,&title_color=000000&text_color=000000"/> 
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=immms&layout=compact&bg_color=180,000000,&title_color=000000&text_color=000000"/> 
+            
     </div> <br/>  
     <div align= "center">
         <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 📨 Contact me </h2> <br/> 
