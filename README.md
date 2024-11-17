@@ -1,21 +1,16 @@
-<div align= "center">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=39ddfe&height=280&text=THIS%20IS%20IMMMS&animation=twinkling&fontColor=ffffdb&fontSize=40" />
-</div>
-<div align= "center"> 
-    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;">  </h2>  
-    <div style="font-weight: 700; font-size: 15px; text-align: center; color: #c9d1d9;">  </div> 
-</div>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=auto&height=300&section=header&text=THIS%20IS%20IMMMS&fontSize=90" />
 
 <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🤓 Introduction </h2> <br/> 
-<p>Frontend 개발자입니다 :)</p><br/> 
+<p>Frontend 개발자입니다 :)</p>
+
 <a href="https://github.com/devxb/gitanimals">
-  <img
-    src="https://render.gitanimals.org/lines/immms?pet-id=645938121147672052"
-    width="600"
-    height="120"
-  />
+<img
+  src="https://render.gitanimals.org/farms/immms"
+  width="600"
+  height="300"
+/>
 </a>
-  
+<br/> <br/> 
 
 <div align= "center">
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🛠️ Tech Stacks </h2> <br/> 
