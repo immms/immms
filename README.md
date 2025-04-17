@@ -1,7 +1,6 @@
 <img src="https://capsule-render.vercel.app/api?type=venom&color=auto&height=300&section=header&text=THIS%20IS%20IMMMS&fontSize=90" />
 
 <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🤓 Introduction </h2> <br/> 
-<p>Frontend 개발자입니다 :)</p>
 
 <a href="https://github.com/devxb/gitanimals">
 <img
